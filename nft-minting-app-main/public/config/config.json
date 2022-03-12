@@ -1,5 +1,5 @@
 {
-  "CONTRACT_ADDRESS": "0xa3692bDa081683cBCA4b1c638BbC959b227016b9",
+  "CONTRACT_ADDRESS": "0x536fbC4Ee0a9a48B0407046fa31C102568bE1Efe",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x406bba707c98dc17f6bf747b48c70c0946880746",
   "NETWORK": {
     "NAME": "MATIC",
@@ -8,10 +8,10 @@
   "NFT_NAME": "Soulless Vampire",
   "SYMBOL": "SOUL",
   "MAX_SUPPLY": 1111,
-  "WEI_COST": 50000000000000000,
-  "DISPLAY_COST": 0.05,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/soulless-matic-beta2",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/soulless-vampires-matic",
   "SHOW_BACKGROUND": true
 }
