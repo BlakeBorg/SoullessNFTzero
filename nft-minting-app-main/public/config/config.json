@@ -2,12 +2,12 @@
   "CONTRACT_ADDRESS": "0xa3692bDa081683cBCA4b1c638BbC959b227016b9",
   "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x406bba707c98dc17f6bf747b48c70c0946880746",
   "NETWORK": {
-    "NAME": "MATIC Munbai",
-    "ID": 80001
+    "NAME": "MATIC",
+    "ID": 137
   },
-  "NFT_NAME": "Soulless NFT",
+  "NFT_NAME": "Soulless Vampire",
   "SYMBOL": "SOUL",
-  "MAX_SUPPLY": 250,
+  "MAX_SUPPLY": 1111,
   "WEI_COST": 50000000000000000,
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
