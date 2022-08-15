@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x536fbC4Ee0a9a48B0407046fa31C102568bE1Efe",
-  "SCAN_LINK": "https://polygonscan.com/address/0x536fbc4ee0a9a48b0407046fa31c102568be1efe",
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "MATIC",
-    "ID": 137
+    "NAME": "Songbird",
+    "SYMBOL": "SGB",
+    "ID": 19
   },
   "NFT_NAME": "Soulless Vampire",
   "SYMBOL": "SOUL",
